@@ -1,6 +1,7 @@
 # 大流量专用
 # 谷歌云盘
 DOMAIN,www.googleapis.com
+DOMAIN,drive.usercontent.google.com
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,googledrive.com
